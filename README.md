@@ -1,6 +1,6 @@
 # odin-stock-picker
 
-This method will take an array and return an array with 2 indexes.  Those indexes should correspond to a buy stock prices and sell stock price that will maximize the profit.  Obviously you must purchase it before it can be sold and you should sell to either maximize profit or minimize loss
+This method will take an array and return an array with 2 indexes.  Those indexes should correspond to a buy stock prices and sell stock price that will maximize the profit.  Obviously you must purchase the stock before it can be sold and you should sell to either maximize profit or minimize loss.
 
 Example: 
 
